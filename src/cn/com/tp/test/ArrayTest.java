@@ -44,6 +44,7 @@ public class ArrayTest {
         list.toArray(c);
         System.out.println(c);
         System.out.println("git test");
+        System.out.println("git test2");
     }
 
 }
