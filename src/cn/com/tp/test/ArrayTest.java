@@ -48,6 +48,8 @@ public class ArrayTest {
         System.out.println("git test2");
         System.out.println("git test4");
         System.out.println("git test6");
+        System.out.println("git test hahahah");
+        System.out.println("git test papapap");
     }
 
 }
