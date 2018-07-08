@@ -43,7 +43,7 @@ public class ArrayTest {
         String[] c = new String[3];
         list.toArray(c);
         System.out.println(c);
-        
+        System.out.println("git test");
     }
 
 }
